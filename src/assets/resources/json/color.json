@@ -6,7 +6,7 @@
   "noticeTextColor": "#ffffff",
   "noticeHighlightTextColor": "#FFE363",
   "bottomAreaTextColor": "#FFE363",
-  "bottomAreaNumberColor": "#1ee2ff",
+  "bottomAreaNumberColor": "#FFE363",
   "bottomAreaButtonBorderColor": "#FFE363",
   "bottomAreaWinAmountColor": "#FFF10E"
 }
