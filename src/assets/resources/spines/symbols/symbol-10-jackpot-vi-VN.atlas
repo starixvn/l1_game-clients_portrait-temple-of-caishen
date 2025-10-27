@@ -1,97 +1,118 @@
 
-exportAtlas.webp
-size: 2048,2048
+symbol-10-jackpot-vi-VN.png
+size: 1039,460
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-H
-  rotate: false
-  xy: 971, 362
-  size: 33, 37
-  orig: 33, 37
-  offset: 0, 0
-  index: -1
-N
-  rotate: false
-  xy: 762, 1189
-  size: 33, 40
-  orig: 33, 40
-  offset: 0, 0
-  index: -1
-O6
-  rotate: false
-  xy: 1212, 7
-  size: 35, 52
-  orig: 35, 52
-  offset: 0, 0
-  index: -1
-U
-  rotate: false
-  xy: 1291, 186
-  size: 32, 46
-  orig: 32, 46
-  offset: 0, 0
-  index: -1
-flare2
-  rotate: false
-  xy: 1066, 163
-  size: 32, 32
-  orig: 32, 32
-  offset: 0, 0
-  index: -1
-gold1
-  rotate: false
-  xy: 666, 969
-  size: 31, 34
-  orig: 31, 34
-  offset: 0, 0
-  index: -1
-gold2
-  rotate: false
-  xy: 953, 524
-  size: 31, 34
-  orig: 31, 34
-  offset: 0, 0
-  index: -1
-leaf
-  rotate: false
-  xy: 1636, 761
-  size: 62, 67
-  orig: 62, 67
-  offset: 0, 0
-  index: -1
-leaf2
+Jackpot
   rotate: true
-  xy: 497, 883
-  size: 61, 46
-  orig: 61, 46
-  offset: 0, 0
+  xy: 610, 155
+  size: 149, 58
+  orig: 157, 62
+  offset: 5, 2
   index: -1
-leaf3
-  rotate: true
-  xy: 348, 249
-  size: 43, 40
-  orig: 43, 40
-  offset: 0, 0
-  index: -1
-leaf4
+background
   rotate: false
-  xy: 1643, 915
-  size: 54, 59
-  orig: 54, 59
+  xy: 735, 308
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-object
-  rotate: true
-  xy: 915, 3
-  size: 132, 124
-  orig: 132, 124
-  offset: 0, 0
-  index: -1
-symbol-10.jackpot.vi-VN--static
+caishen
   rotate: false
-  xy: 586, 739
-  size: 151, 135
-  orig: 151, 135
+  xy: 306, 7
+  size: 145, 145
+  orig: 147, 147
+  offset: 2, 0
+  index: -1
+caishen-glow
+  rotate: false
+  xy: 453, 7
+  size: 145, 145
+  orig: 151, 160
+  offset: 3, 8
+  index: -1
+light
+  rotate: false
+  xy: 2, 306
+  size: 731, 152
+  orig: 900, 200
+  offset: 85, 24
+  index: -1
+particles/Layer 1
+  rotate: false
+  xy: 735, 156
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 10
+  rotate: false
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 11
+  rotate: false
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 2
+  rotate: false
+  xy: 887, 308
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 3
+  rotate: false
+  xy: 887, 156
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 4
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 5
+  rotate: false
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 6
+  rotate: false
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 7
+  rotate: false
+  xy: 458, 154
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 8
+  rotate: false
+  xy: 670, 4
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+particles/Layer 9
+  rotate: false
+  xy: 822, 4
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1

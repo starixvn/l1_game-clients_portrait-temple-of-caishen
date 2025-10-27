@@ -1,160 +1,118 @@
 
-exportAtlas.webp
-size: 2048,2048
+symbol-8.png
+size: 914,520
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-BONUS
+Bonus
+  rotate: false
+  xy: 735, 458
+  size: 154, 60
+  orig: 157, 62
+  offset: 1, 2
+  index: -1
+background
+  rotate: false
+  xy: 735, 306
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+dragon
   rotate: true
-  xy: 396, 1183
-  size: 150, 68
-  orig: 150, 68
+  xy: 610, 258
+  size: 106, 114
+  orig: 151, 160
+  offset: 22, 21
+  index: -1
+dragon-glow
+  rotate: true
+  xy: 610, 158
+  size: 98, 110
+  orig: 151, 160
+  offset: 26, 25
+  index: -1
+light
+  rotate: false
+  xy: 2, 366
+  size: 731, 152
+  orig: 900, 200
+  offset: 85, 24
+  index: -1
+particles/Layer 1
+  rotate: false
+  xy: 2, 154
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-coconut
+particles/Layer 10
   rotate: false
-  xy: 2, 12
-  size: 1098, 251
-  orig: 1098, 251
+  xy: 610, 2
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-leaf
+particles/Layer 11
   rotate: false
-  xy: 1013, 1147
-  size: 94, 32
-  orig: 94, 32
+  xy: 762, 2
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-leaf 3
+particles/Layer 2
   rotate: false
-  xy: 1095, 337
-  size: 62, 29
-  orig: 62, 29
+  xy: 2, 2
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-lemon
+particles/Layer 3
   rotate: false
-  xy: 14, 1068
-  size: 32, 30
-  orig: 32, 30
+  xy: 154, 154
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-symbol-8-static
+particles/Layer 4
   rotate: false
-  xy: 4, 18
-  size: 667, 989
-  orig: 667, 989
+  xy: 154, 2
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-umbrella
+particles/Layer 5
   rotate: false
-  xy: 739, 549
-  size: 38, 40
-  orig: 38, 40
+  xy: 306, 154
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/water00
+particles/Layer 6
   rotate: false
-  xy: 1325, 191
-  size: 78, 79
-  orig: 78, 79
+  xy: 306, 2
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/water01
+particles/Layer 7
   rotate: false
-  xy: 1276, 1262
-  size: 78, 79
-  orig: 78, 79
+  xy: 458, 214
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/water02
+particles/Layer 8
   rotate: false
-  xy: 1281, 1177
-  size: 78, 79
-  orig: 78, 79
+  xy: 726, 154
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-vfx/water03
+particles/Layer 9
   rotate: false
-  xy: 1277, 448
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water04
-  rotate: false
-  xy: 1282, 105
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water05
-  rotate: false
-  xy: 1194, 1273
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water06
-  rotate: false
-  xy: 1113, 1273
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water07
-  rotate: false
-  xy: 1028, 1278
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water08
-  rotate: false
-  xy: 936, 1278
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water09
-  rotate: false
-  xy: 828, 1277
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water10
-  rotate: false
-  xy: 731, 1276
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water11
-  rotate: false
-  xy: 533, 1264
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-vfx/water12
-  rotate: false
-  xy: 308, 167
-  size: 78, 79
-  orig: 78, 79
-  offset: 0, 0
-  index: -1
-water
-  rotate: false
-  xy: 332, 1256
-  size: 67, 59
-  orig: 67, 59
-  offset: 0, 0
-  index: -1
-water2
-  rotate: false
-  xy: 578, 1182
-  size: 70, 79
-  orig: 70, 79
+  xy: 458, 62
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1

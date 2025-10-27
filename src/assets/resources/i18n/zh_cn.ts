@@ -438,6 +438,14 @@ export const languages = {
         "total_win": "总奖金",
         "Unexpected_gift_code_error_message": "发生意外错误。请稍后重试。",
         "Close": "关闭"
+    },
+    "TempleOfCaiShen": {
+        "game_name": "财神庙",
+        "game_icon_name": "财神庙"
+    },
+    "GodOfFortune": {
+        "game_name": "爆富财神",
+        "game_icon_name": "爆富财神"
     }
 };
 

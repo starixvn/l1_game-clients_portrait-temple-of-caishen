@@ -438,6 +438,14 @@ export const languages = {
         "total_win": "Total Menang ",
         "Unexpected_gift_code_error_message": "Terjadi kesalahan tak terduga. Silakan coba lagi nanti.",
         "Close": "Tutup"
+    },
+    "TempleOfCaiShen": {
+        "game_name": "Suatu Kuil Cai Shen",
+        "game_icon_name": "Suatu Kuil\nCai Shen"
+    },
+    "GodOfFortune": {
+        "game_name": "Dewa Rezeki",
+        "game_icon_name": "Dewa Rezeki"
     }
 };
 

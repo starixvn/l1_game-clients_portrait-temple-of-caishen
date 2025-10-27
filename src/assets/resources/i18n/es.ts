@@ -438,6 +438,14 @@ export const languages = {
         "total_win": "Ganancia Total",
         "Unexpected_gift_code_error_message": "Se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde.",
         "Close": "Cerrar"
+    },
+    "TempleOfCaiShen": {
+        "game_name": "Temple of Cai Shen",
+        "game_icon_name": "Temple of\nCai Shen"
+    },
+    "GodOfFortune": {
+        "game_name": "God of Fortune",
+        "game_icon_name": "God of Fortune"
     }
 };
 

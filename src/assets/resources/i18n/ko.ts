@@ -438,6 +438,14 @@ export const languages = {
         "total_win": "총 당첨금",
         "Unexpected_gift_code_error_message": "예기치 않은 오류가 발생했습니다. 나중에 다시 시도해 주십시오.",
         "Close": "닫기"
+    },
+    "TempleOfCaiShen": {
+        "game_name": "재신전",
+        "game_icon_name": "차이 셴 신전"
+    },
+    "GodOfFortune": {
+        "game_name": "재물의 신",
+        "game_icon_name": "재물의 신"
     }
 };
 

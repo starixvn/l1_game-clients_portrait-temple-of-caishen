@@ -438,6 +438,14 @@ export const languages = {
         "total_win": "Jumlah Kemenangan",
         "Unexpected_gift_code_error_message": "Ralat tak dijangka berlaku. Sila cuba lagi kemudian.",
         "Close": "Tutup"
+    },
+    "TempleOfCaiShen": {
+        "game_name": "Temple of Cai Shen",
+        "game_icon_name": "Temple of\nCai Shen"
+    },
+    "GodOfFortune": {
+        "game_name": "God of Fortune",
+        "game_icon_name": "God of Fortune"
     }
 };
 

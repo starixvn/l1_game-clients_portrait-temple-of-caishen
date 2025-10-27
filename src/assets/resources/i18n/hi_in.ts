@@ -438,6 +438,14 @@ export const languages = {
         "total_win": "कुल जीत",
         "Unexpected_gift_code_error_message": "अप्रत्याशित त्रुटि हुई. कृपया बाद में पुन: प्रयास करें.",
         "Close": "बंद करें"
+    },
+    "TempleOfCaiShen": {
+        "game_name": "Temple of Cai Shen",
+        "game_icon_name": "Temple of\nCai Shen"
+    },
+    "GodOfFortune": {
+        "game_name": "God of Fortune",
+        "game_icon_name": "God of Fortune"
     }
 };
 

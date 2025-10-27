@@ -438,6 +438,14 @@ export const languages = {
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau.",
         "Close": "Đóng"
+    },
+    "TempleOfCaiShen": {
+        "game_name": "Rước Lộc Thần Tài",
+        "game_icon_name": "Rước Lộc\nThần Tài"
+    },
+    "GodOfFortune": {
+        "game_name": "Thần Tài Đến",
+        "game_icon_name": "Thần Tài Đến"
     }
 };
 

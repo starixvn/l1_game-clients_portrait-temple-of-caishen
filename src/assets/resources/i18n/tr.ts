@@ -438,6 +438,14 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
         "Close": "Kapat"
+    },
+    "TempleOfCaiShen": {
+        "game_name": "Cai Shen Tapınağı",
+        "game_icon_name": "Cai Shen'in\nTapınağı"
+    },
+    "GodOfFortune": {
+        "game_name": "Servet Tanrısı",
+        "game_icon_name": "Servet Tanrısı"
     }
 };
 
