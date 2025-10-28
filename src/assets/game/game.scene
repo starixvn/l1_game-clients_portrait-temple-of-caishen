@@ -7611,7 +7611,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": -360,
+      "x": -355,
       "y": -0.5030000000000001,
       "z": 0
     },
@@ -7711,7 +7711,7 @@
     "__prefab": null,
     "_alignFlags": 12,
     "_target": null,
-    "_left": 2,
+    "_left": 7,
     "_right": 0,
     "_top": 24,
     "_bottom": 12.997,
@@ -7753,7 +7753,7 @@
     "_prefab": null,
     "_lpos": {
       "__type__": "cc.Vec3",
-      "x": 360,
+      "x": 355,
       "y": -0.5030000000000001,
       "z": 0
     },
@@ -7854,7 +7854,7 @@
     "_alignFlags": 36,
     "_target": null,
     "_left": 0,
-    "_right": 2,
+    "_right": 7,
     "_top": 0,
     "_bottom": 12.997,
     "_horizontalCenter": 0,
