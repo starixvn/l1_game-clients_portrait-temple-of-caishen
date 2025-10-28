@@ -1,117 +1,117 @@
 
-symbol-8.png
-size: 914,520
+exportAtlas.webp
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Bonus
   rotate: false
-  xy: 735, 458
-  size: 154, 60
+  xy: 9, 112
+  size: 157, 62
   orig: 157, 62
-  offset: 1, 2
+  offset: 0, 0
   index: -1
 background
   rotate: false
-  xy: 735, 306
+  xy: 754, 226
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 dragon
   rotate: true
-  xy: 610, 258
-  size: 106, 114
-  orig: 151, 160
-  offset: 22, 21
+  xy: 14, 266
+  size: 109, 116
+  orig: 109, 116
+  offset: 0, 0
   index: -1
 dragon-glow
   rotate: true
-  xy: 610, 158
-  size: 98, 110
-  orig: 151, 160
-  offset: 26, 25
+  xy: 619, 106
+  size: 101, 113
+  orig: 101, 113
+  offset: 0, 0
   index: -1
 light
   rotate: false
-  xy: 2, 366
-  size: 731, 152
-  orig: 900, 200
-  offset: 85, 24
+  xy: 99, 631
+  size: 733, 156
+  orig: 733, 156
+  offset: 0, 0
   index: -1
 particles/Layer 1
   rotate: false
-  xy: 2, 154
+  xy: 782, 380
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 10
   rotate: false
-  xy: 610, 2
+  xy: 792, 536
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 11
   rotate: false
-  xy: 762, 2
+  xy: 10, 898
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 2
   rotate: false
-  xy: 2, 2
+  xy: 592, 898
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 3
   rotate: false
-  xy: 154, 154
+  xy: 746, 898
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 4
   rotate: false
-  xy: 154, 2
+  xy: 908, 176
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 5
   rotate: false
-  xy: 306, 154
+  xy: 900, 698
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 6
   rotate: false
-  xy: 306, 2
+  xy: 902, 852
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 7
   rotate: false
-  xy: 458, 214
+  xy: 166, 942
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 8
   rotate: false
-  xy: 726, 154
+  xy: 938, 330
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 particles/Layer 9
   rotate: false
-  xy: 458, 62
+  xy: 320, 954
   size: 150, 150
   orig: 150, 150
   offset: 0, 0

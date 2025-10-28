@@ -1,27 +1,27 @@
 
-symbol-2.png
-size: 976,156
+exportAtlas.webp
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Item - background
   rotate: false
-  xy: 735, 4
+  xy: 1254, 476
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
   index: -1
 light
   rotate: false
-  xy: 2, 2
-  size: 731, 152
-  orig: 900, 200
-  offset: 85, 24
+  xy: 15, 159
+  size: 733, 156
+  orig: 733, 156
+  offset: 0, 0
   index: -1
 symbol-2
   rotate: false
-  xy: 887, 38
-  size: 87, 116
-  orig: 91, 124
-  offset: 3, 1
+  xy: 475, 931
+  size: 90, 118
+  orig: 90, 118
+  offset: 0, 0
   index: -1

@@ -1,12 +1,12 @@
 
-symbol-4.png
-size: 996,156
+exportAtlas.webp
+size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 Item - background
   rotate: false
-  xy: 735, 4
+  xy: 164, 1576
   size: 150, 150
   orig: 150, 150
   offset: 0, 0
@@ -14,14 +14,14 @@ Item - background
 light
   rotate: false
   xy: 2, 2
-  size: 731, 152
-  orig: 900, 200
-  offset: 85, 24
+  size: 733, 156
+  orig: 733, 156
+  offset: 0, 0
   index: -1
 symbol-4
   rotate: false
-  xy: 887, 36
-  size: 107, 118
-  orig: 112, 122
-  offset: 3, 2
+  xy: 3, 695
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
   index: -1
