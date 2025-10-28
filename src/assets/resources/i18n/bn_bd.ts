@@ -291,7 +291,7 @@ export const languages = {
         "title_multiplier": "গুণক",
         "crash_start_in": "শুরু হবে %{time}",
         "crashed": "বিধ্বস্ত",
-        "start": "শুরু করুন",
+        "start": "শুরু",
         "max": "সর্বোচ্চ",
         "stop_auto_bet": "অটো বেট বন্ধ করুন",
         "msg_rotate_to_portrait": "খেলতে আপনার স্ক্রিনটি পোর্ট্রেট মোডে ঘোরান",

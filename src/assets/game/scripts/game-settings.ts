@@ -1,4 +1,4 @@
-export const GAME_NAME = "TempleOfCaishen";
+export const GAME_NAME = "TempleOfCaiShen";
 export const settings = {
     id: 133,
     name: GAME_NAME,
