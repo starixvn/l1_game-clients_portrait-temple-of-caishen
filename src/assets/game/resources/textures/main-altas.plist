@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>white-color.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{2,2}</string>
+                <key>spriteSourceSize</key>
+                <string>{2,2}</string>
+                <key>textureRect</key>
+                <string>{{3,3},{2,2}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>main-altas.webp</string>
+            <key>size</key>
+            <string>{8,8}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:87326e06dfd86a8fa65ea265a884425b:d1096c73e4bec6f9dd017fb2a10b1b54:ef0ef156a355359910a67f53b8e8916b$</string>
+            <key>textureFileName</key>
+            <string>main-altas.webp</string>
+        </dict>
+    </dict>
+</plist>

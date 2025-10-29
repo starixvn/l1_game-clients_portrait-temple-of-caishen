@@ -4,262 +4,262 @@ size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-cocktail
+3/Layer 1
   rotate: false
-  xy: 467, 1196
-  size: 111, 138
-  orig: 111, 138
+  xy: 1562, 320
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-flare1
+3/Layer 10
   rotate: false
-  xy: 53, 116
-  size: 16, 16
-  orig: 16, 16
+  xy: 318, 1588
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-flare2
+3/Layer 11
   rotate: false
-  xy: 946, 958
-  size: 32, 32
-  orig: 32, 32
+  xy: 1286, 1584
+  size: 150, 150
+  orig: 150, 150
   offset: 0, 0
   index: -1
-free
+3/Layer 12
+  rotate: false
+  xy: 1440, 1582
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 13
+  rotate: false
+  xy: 1666, 12
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 14
+  rotate: false
+  xy: 1570, 474
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 15
+  rotate: false
+  xy: 1572, 958
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 16
+  rotate: false
+  xy: 1582, 1112
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 17
+  rotate: false
+  xy: 1604, 1266
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 18
+  rotate: false
+  xy: 1594, 1420
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 19
+  rotate: false
+  xy: 1594, 1574
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 2
+  rotate: false
+  xy: 746, 736
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 20
+  rotate: false
+  xy: 896, 16
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 21
+  rotate: false
+  xy: 4, 1052
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 22
+  rotate: false
+  xy: 478, 1052
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 23
+  rotate: false
+  xy: 636, 1052
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 24
+  rotate: false
+  xy: 956, 1008
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 25
+  rotate: false
+  xy: 1062, 162
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 26
+  rotate: false
+  xy: 960, 1162
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 27
+  rotate: false
+  xy: 1110, 976
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 28
+  rotate: false
+  xy: 1114, 1136
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 29
+  rotate: false
+  xy: 1216, 162
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 3
+  rotate: false
+  xy: 1208, 642
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 30
+  rotate: false
+  xy: 164, 1250
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 4
+  rotate: false
+  xy: 322, 1266
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 5
+  rotate: false
+  xy: 1358, 4
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 6
+  rotate: false
+  xy: 1410, 474
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 7
+  rotate: false
+  xy: 1264, 956
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 8
+  rotate: false
+  xy: 1268, 1122
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+3/Layer 9
+  rotate: false
+  xy: 10, 1382
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+Freespin
+  rotate: false
+  xy: 151, 599
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1
+Item - background
+  rotate: false
+  xy: 632, 1364
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+koi2-1
   rotate: true
-  xy: 1377, 1137
-  size: 129, 48
-  orig: 129, 48
+  xy: 2, 3
+  size: 754, 1883
+  orig: 754, 1883
   offset: 0, 0
   index: -1
-heart-effect/heart00
-  rotate: false
-  xy: 1073, 1361
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart01
-  rotate: false
-  xy: 1158, 1356
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart02
-  rotate: false
-  xy: 1365, 113
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart03
-  rotate: false
-  xy: 1358, 435
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart04
-  rotate: false
-  xy: 989, 1361
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart05
-  rotate: false
-  xy: 1348, 27
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart06
-  rotate: false
-  xy: 1344, 274
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart07
-  rotate: false
-  xy: 1347, 616
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart08
-  rotate: false
-  xy: 86, 1352
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart09
-  rotate: false
-  xy: 417, 1338
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart10
-  rotate: false
-  xy: 506, 1347
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart11
-  rotate: false
-  xy: 164, 1352
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart12
-  rotate: false
-  xy: 1276, 1347
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart13
-  rotate: false
-  xy: 8, 1374
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart14
-  rotate: false
-  xy: 243, 1359
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart15
-  rotate: false
-  xy: 584, 1359
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart16
-  rotate: false
-  xy: 662, 1361
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart17
-  rotate: false
-  xy: 740, 1365
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart18
-  rotate: false
-  xy: 821, 1360
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart19
-  rotate: false
-  xy: 905, 1360
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart20
-  rotate: false
-  xy: 1308, 357
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart21
-  rotate: false
-  xy: 1285, 538
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart22
-  rotate: false
-  xy: 618, 1281
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart23
-  rotate: false
-  xy: 1325, 1061
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart24
-  rotate: false
-  xy: 1319, 732
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart25
-  rotate: false
-  xy: 1329, 817
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart26
-  rotate: false
-  xy: 1327, 903
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart27
-  rotate: false
-  xy: 1319, 981
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-heart-effect/heart28
-  rotate: false
-  xy: 340, 1334
-  size: 74, 74
-  orig: 74, 74
-  offset: 0, 0
-  index: -1
-leaf
-  rotate: false
-  xy: 1636, 834
-  size: 57, 65
-  orig: 57, 65
-  offset: 0, 0
-  index: -1
-leaf2
+koi2-2
   rotate: true
-  xy: 9, 1197
-  size: 65, 56
-  orig: 65, 56
+  xy: 7, 5
+  size: 1151, 1831
+  orig: 1151, 1831
   offset: 0, 0
   index: -1
-spin
-  rotate: true
-  xy: 739, 735
-  size: 117, 47
-  orig: 117, 47
-  offset: 0, 0
-  index: -1
-symbol-7-static_00
+koi2-2-eye
   rotate: false
-  xy: 813, 865
-  size: 134, 142
-  orig: 134, 142
+  xy: 10, 32
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+koi2-glow
+  rotate: true
+  xy: 1107, 1597
+  size: 155, 142
+  orig: 155, 142
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 1715, 175
+  size: 368, 79
+  orig: 368, 79
   offset: 0, 0
   index: -1
