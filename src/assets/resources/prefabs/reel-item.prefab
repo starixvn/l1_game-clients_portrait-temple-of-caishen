@@ -704,7 +704,7 @@
     "blurSymbol": {
       "__id__": 16
     },
-    "premultipliedAlpha": true,
+    "premultipliedAlpha": false,
     "_id": ""
   },
   {
