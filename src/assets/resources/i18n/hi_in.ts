@@ -147,7 +147,7 @@ export const languages = {
         "pf_verification_para_3": "दशमलव में बदलें",
         "pf_verification_para_4": "अंतिम परिणाम की गणना करें",
         "pf_client_seed_tooltip_para_2": "राउंड के पहले पाँच बेटिंग खिलाड़ियों के Client Seed को Player 1 से Player 5 तक क्रमबद्ध क्रम में मर्ज करें।",
-        "pf_combined_sha512_hash_tooltip_para_1": "अंतिम परिणाम सर्वर सीड और राउंड के पहले पाँच बेटिंग खिलाड़ियों के Client Seed के संयोजन द्वारा निर्धारित किया जाता है, जिसे बाद में SHA512 हैश में परिवर्तित किया जाता है।",
+        "pf_combined_sha512_hash_tooltip_para_1": "संयुक्त SHA512 हैश सर्वर Seed और क्लाइंट seed के संयोजन द्वारा निर्धारित किया जाता है, फिर इसे SHA512 हैश में परिवर्तित किया जाता है।",
         "pf_fairness": "Fairness",
         "pf_copy_successfully ": "कॉपी सफल! ",
         "pf_copy_unsucessful": "कॉपी फ़ंक्शन अस्थायी रूप से अनुपलब्ध है",
@@ -280,9 +280,8 @@ export const languages = {
         "auto": "ऑटो",
         "live_stats": "लाइव आँकड़े",
         "profit": "मुनाफ़ा",
-        "wins": "जीत",
-        "waggred": "Waggred",
-        "losses": "हानियाँ",
+        "wins": "राउंड जीत",
+        "losses": "राउंड में हार",
         "all_bets": "सभी बेट्स",
         "crash_glossary_refund": "रिफंड",
         "glossary_bet": "शर्त",
@@ -312,7 +311,14 @@ export const languages = {
         "auto_bet_warning": "Auto Bet को सक्षम करने पर, खिलाड़ी इसके उपयोग के लिए पूरी जिम्मेदारी स्वीकार करते हैं, और गेम प्रदाता किसी भी परिणाम के लिए कोई दायित्व नहीं लेता है।",
         "hot_key_enable": "हॉटकी सक्षम की गई हैं",
         "pop_over_demo_mode": "शर्त 0 डेमो मोड को सक्रिय करेगा",
-        "hot_key_disable": "हॉटकी अक्षम की गई"
+        "hot_key_disable": "हॉटकी अक्षम की गई",
+        "wagered": "Waggred",
+        "balance": "बैलेंस",
+        "num_of_auto_play": "ऑटो-प्ले की संख्या:",
+        "big_wins": "Big Wins",
+        "turn_based_pf_settings_para_1": "अंतिम परिणाम सर्वर Seed और क्लाइंट Seed के संयोजन द्वारा निर्धारित किया जाता है।",
+        "cancel_promotion_message": "यह प्रमोशन समाप्त हो गया है। अधिक जानकारी के लिए कृपया ग्राहक सेवा से संपर्क करें। (%{errorCode})",
+        "title_total_multiplier": "कुल गुणक"
     },
     "SummerHeat": {
         "game_name": "Summer Heat",
@@ -347,7 +353,7 @@ export const languages = {
         "hall_of_fame": "हॉल ऑफ फेम",
         "prize": "पुरस्कार",
         "bonus_count_text_item": "आइटम की संख्या",
-        "big_win": "Big Win",
+        "big_win": "बड़ा विन",
         "lines": "पंक्तियाँ",
         "auto_spin": "ऑटो स्पिन",
         "jackpot_game": "Jackpot Game",
@@ -363,7 +369,10 @@ export const languages = {
         "bonus": "Bonus",
         "free_spins": "Free Spins",
         "big_win_2_lines": "बड़ा विन",
-        "bet_level_shorten": "बेट लेवल"
+        "bet_level_shorten": "बेट लेवल",
+        "speed_normal": "सामान्य गति",
+        "speed_turbo": "टर्बो स्पीड",
+        "speed_ultra": "अल्ट्रा स्पीड"
     },
     "FreeSpinBonus": {
         "bet_level": "बेट लेवल",

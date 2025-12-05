@@ -147,7 +147,7 @@ export const languages = {
         "pf_verification_para_3": "Tukar ke Perpuluhan",
         "pf_verification_para_4": "Kira Keputusan Akhir",
         "pf_client_seed_tooltip_para_2": "Gabungkan Client Seed daripada lima pemain pertaruhan pertama pusingan dalam turutan jujukan dari Pemain 1 ke Pemain 5.",
-        "pf_combined_sha512_hash_tooltip_para_1": "Keputusan akhir ditentukan oleh gabungan Server Seed dan Client Seed bagi lima pemain pertaruhan pertama pusingan, yang seterusnya ditukar menjadi cincangan SHA512.",
+        "pf_combined_sha512_hash_tooltip_para_1": "Gabungan cincangan SHA512 ditentukan oleh gabungan Server Seed dan Client seed, kemudian ditukarkan menjadi cincangan SHA512.",
         "pf_fairness": "Fairness",
         "pf_copy_successfully ": "Salinan Berjaya!",
         "pf_copy_unsucessful": "Fungsi salinan tidak tersedia buat sementara waktu",
@@ -280,9 +280,8 @@ export const languages = {
         "auto": "Auto",
         "live_stats": "Statistik Langsung",
         "profit": "Keuntungan",
-        "wins": "Kemenangan",
-        "waggred": "Waggred",
-        "losses": "Kerugian",
+        "wins": "Bil. Kemenangan",
+        "losses": "Bil. Kekalahan",
         "all_bets": "Semua Pertaruhan",
         "crash_glossary_refund": "Bayaran Balik",
         "glossary_bet": "Taruhan",
@@ -312,7 +311,14 @@ export const languages = {
         "auto_bet_warning": "Dengan mendayakan Auto Bet, pemain menerima tanggungjawab penuh untuk penggunaannya, dan pembekal permainan tidak bertanggungjawab terhadap sebarang keputusan.",
         "hot_key_enable": "Kekunci Pintas Didayakan",
         "pop_over_demo_mode": "Taruhan 0 akan mengaktifkan Mod Demo",
-        "hot_key_disable": "Kekunci Pintas Dilumpuhkan"
+        "hot_key_disable": "Kekunci Pintas Dilumpuhkan",
+        "wagered": "Dipertaruhkan",
+        "balance": "BALANCE",
+        "num_of_auto_play": "Bilangan Auto-Main:",
+        "big_wins": "Big Wins",
+        "turn_based_pf_settings_para_1": "Keputusan akhir ditentukan oleh gabungan Server Seed dan Client Seed.",
+        "cancel_promotion_message": "Promosi telah tamat. Sila hubungi Khidmat Pelanggan untuk maklumat lanjut. (%{errorCode})",
+        "title_total_multiplier": "Jumlah Pengganda"
     },
     "SummerHeat": {
         "game_name": "Summer Heat",
@@ -363,7 +369,10 @@ export const languages = {
         "bonus": "Bonus",
         "free_spins": "Free Spins",
         "big_win_2_lines": "Big Win",
-        "bet_level_shorten": "Aras Pertaruhan"
+        "bet_level_shorten": "Aras Pertaruhan",
+        "speed_normal": "Kelajuan Biasa",
+        "speed_turbo": "Turbo Speed",
+        "speed_ultra": "Kelajuan Ultra"
     },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
